@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-<p align="left"> <a href="https://twitter.com/amaechiizu1" target="blank"><img src="https://img.shields.io/twitter/follow/amaechiizu1?logo=twitter&style=for-the-badge" alt="amaechiizu1" /></a> <span align="left"> <img src="https://komarev.com/ghpvc/?username=izuutech&label=Profile%20views&color=64ffda&style=flat" alt="izuutech" /> </span></p>
+<p align="left"> <a href="https://twitter.com/amaechiizu1" target="blank"><img src="https://img.shields.io/twitter/follow/amaechiizu1?logo=twitter&style=for-the-badge" alt="amaechiizu1" /></a> <span align="left"> <img src="https://komarev.com/ghpvc/?username=izuutech&label=Profile%20views&color=blue&style=flat" alt="izuutech" /> </span></p>
 
 - 🔭 I’m currently working on some cool stuff
 - 🌱 I’m currently learning Data Science, Machine learning, and Web3
