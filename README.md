@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with creating packages for the React Native framework
 - 💬 Ask me about Javascript, Typescript, Python
 - 📫 How to reach me: izutechsofficial@gmail.com
+- 📄 [Visit](https://joshuaizu.vercel.app) My Portfolio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building games and creating algorithms 😄
 
